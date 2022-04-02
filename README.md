@@ -7,7 +7,7 @@ It takes a monolithic application and its clustering metadata, and:
 
 **Folders and their contents**
 
-CodeRefactor_SourceFiles_Results.zip contains fowllwing folders: 
+CodeRefactor_SourceFiles_Results.zip contains following folders: 
 
 1. **jpt:** Contains the source code of the project.
 
