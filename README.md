@@ -11,6 +11,6 @@ CodeRefactor_SourceFiles_Resuts.zip contains fowllwing folders:
 
 1. **jpt:** Contains the source code of the project.
 
-2 **Results:** Contain the generated microservice clusters for five applications (DayTrader, Acmeair, PetClinic, PlantsByWebsphere, and Mayocat). 
+2. **Results:** Contain the generated microservice clusters for five applications (DayTrader, Acmeair, PetClinic, PlantsByWebsphere, and Mayocat). 
 
 Respective folder for each application in the results also contains computed metadata and a screenshot of experimental result.
